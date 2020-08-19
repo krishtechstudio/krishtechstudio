@@ -1,11 +1,12 @@
-# 👋 Hi here is krish Tech Studio.
-***Let's Explore my projects***
+# 👋 Hi here is krish Tech Studio.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 - I ❤ programming.
 
 - I'm a school boy.
 
 ## What we use
+
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 <table>
   <tbody>
@@ -47,4 +48,11 @@
 ## My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krishtechstudio&show_icons=true&hide_border=true)
+
+## Connect with me
+
+<p align="center">
+<a href="https://termuxhacker.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-termuxhacker.ml-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:mine3krish@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mine3krish@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
