@@ -1,9 +1,9 @@
-# 👋 Hi here is krish Tech Studio.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# 👋 Hi I'm krish Tech Studio.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 ![ratings](https://img.shields.io/badge/Ratings-%E2%98%86%E2%98%86%E2%98%86-green)
 ![projects](https://img.shields.io/badge/Projects--done-10-green)
-- I ❤ programming.
+`- I ❤ programming.`
 
-- I'm a school boy.
+`- I'm a school boy.`
 
 ## What we use
 
